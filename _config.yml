@@ -125,7 +125,7 @@ init_page_content: HOME_NAV  # HOME_NAV | POST
 # =========================================================
 # Stats
 #google_analytics: UA-38189205-1
-#baidu_analytics: 57e94d016e201fba3603a8a2b0263af0
+baidu_analytics: d4b892153a53af797abac43f46aac4dc
 
 # Comment service
 
@@ -185,7 +185,7 @@ valine:
 
 
 # 不算子,文章访问量统计和显示
-#busuanzi: true
+busuanzi: true
 
 # =========================================================
 # 页面内容设置
